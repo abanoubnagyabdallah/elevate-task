@@ -1,6 +1,14 @@
 import { Button, Card, CardBody, Heading, Image, Stack, Text, useColorMode } from "@chakra-ui/react";
-import { IProduct } from "../interfaces/interface";
 
+export interface IProduct {
+    category: string
+    description: string
+    id: number
+    image: string
+    price: number
+    rating: { rate: number, count: number }
+    title: string
+}
 interface IProps {
     product: IProduct
 }
