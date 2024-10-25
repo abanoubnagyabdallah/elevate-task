@@ -9,4 +9,4 @@
 #### 1- npm install
 #### 2- npm run dev
 
-demo: [Link Text](https://cool-maamoul-8037a0.netlify.app/).
+demo: [click here](https://cool-maamoul-8037a0.netlify.app/).
